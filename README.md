@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on muhile23@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I some times use AI to program. Reach me out I'll teach you how to jailbreak AI
+- ⚡ Fun fact: I'm a chill guy so feel free to pull issues and request
 
 <!---
 Muhile33/Muhile33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
